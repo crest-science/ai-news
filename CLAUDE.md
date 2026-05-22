@@ -30,19 +30,21 @@ there are intentionally no per-area pages.
 
 Use `https://img.shields.io/badge/<text>-<color>` (single-segment form).
 For hyphens inside the text, double them (`claude--code` renders as
-`claude-code`). Color is a shields.io named color, picked by the badge's
-role — not its specific word:
+`claude-code`).
 
-- **blue** — research domain (economics, mathematics, sociology, statistics,
-  finance, administration, …)
-- **green** — content type / role (research, tutorial, paper, talk)
-- **orange** — publication format (blog, slides, video, podcast)
-- **lightgrey** — generic format/source tag (tooling, awesome-list, dataset)
-- **purple** — specific tool or product name (claude-code, …)
-- **black** — platform (github, arxiv, …)
+The **text** is a free-form keyword describing the content. The **color**
+encodes the laboratory area the entry belongs to — all badges on a single
+entry share the same color:
 
-Keep to 1–3 badges per entry. If unsure which color, prefer the role over
-the literal word.
+- **blue** — economy
+- **orange** — sociology
+- **green** — statistics (including mathematics / methodology)
+- **yellow** — finance
+- **lightgrey** — general / cross-cutting (tooling, tutorials, anything
+  not tied to one area)
+
+Keep to 1–3 badges per entry. If an entry spans multiple areas, pick the
+dominant one; do not mix colors within a single entry.
 
 ## Local preview (optional)
 
