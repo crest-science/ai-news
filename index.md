@@ -1,13 +1,12 @@
 ---
 layout: home
-title: AI News
+title: AI News for Research@CREST
 ---
 
-# AI News
+# Sharing experiences and readings
 
 Welcome to the laboratory's hub for AI-related content: readings, article monitoring,
 and notes on how generative AI is reshaping our research areas.
-
 
 ---
 
@@ -17,7 +16,7 @@ and notes on how generative AI is reshaping our research areas.
 
 ## Collective discussion
 
-- 19/05/2026: [AI and Mathematics, Nicolas Brosse](https://019e3f84-75d9-18e9-a114-f9c8546c9834.share.connect.posit.cloud/) ![mathematics](https://img.shields.io/badge/mathematics-green) ![review](https://img.shields.io/badge/talk-green)
+- 19/05/2026: [AI and Mathematics, Nicolas Brosse](https://019e3f84-75d9-18e9-a114-f9c8546c9834.share.connect.posit.cloud/) ![mathematics](https://img.shields.io/badge/mathematics-green) ![synthesis](https://img.shields.io/badge/synthesis-green)
 
 ## Trainings & ressources
 
