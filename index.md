@@ -13,6 +13,7 @@ and notes on how generative AI is reshaping our research areas.
 ## Latest News
 
 - 20/05/2026: [What a panel of economists said about AI in the production of research, Scott Cunningham and Kosali Simon](https://causalinf.substack.com/p/what-a-panel-of-economists-said-about) ![economics](https://img.shields.io/badge/economics-blue) ![research-practices](https://img.shields.io/badge/research--practices-blue) ![experience](https://img.shields.io/badge/experience-blue)
+- 20/05/2026: [On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists, Arxiv](https://arxiv.org/abs/2605.20668) ![preprint](https://img.shields.io/badge/preprint-lightgrey) ![review](https://img.shields.io/badge/review-lightgrey)
 
 ## Collective discussion
 
