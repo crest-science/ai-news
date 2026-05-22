@@ -8,6 +8,12 @@ title: AI News for Research@CREST
 Welcome to the laboratory's hub for AI-related content: readings, article monitoring,
 and notes on how generative AI is reshaping our research areas.
 
+**Contribute:** this site lives on GitHub at
+[crest-science/ai-news](https://github.com/crest-science/ai-news). To suggest
+a reading or flag something worth monitoring,
+[open an issue](https://github.com/crest-science/ai-news/issues/new); to add
+content directly, send a pull request editing `index.md`.
+
 ---
 
 ## Latest News
