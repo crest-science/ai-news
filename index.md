@@ -18,6 +18,7 @@ content directly, send a pull request editing `index.md`.
 
 ## Latest News
 
+- 27/05/2026: [Coding agents in the social sciences - a Survey from Anthropic](https://www.anthropic.com/research/coding-agents-social-sciences)
 - 20/05/2026: [What a panel of economists said about AI in the production of research, Scott Cunningham and Kosali Simon](https://causalinf.substack.com/p/what-a-panel-of-economists-said-about) ![economics](https://img.shields.io/badge/economics-blue) ![research-practices](https://img.shields.io/badge/research--practices-blue) ![experience](https://img.shields.io/badge/experience-blue)
 - 20/05/2026: [On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists, Arxiv](https://arxiv.org/abs/2605.20668) ![preprint](https://img.shields.io/badge/preprint-lightgrey) ![review](https://img.shields.io/badge/review-lightgrey)
 
@@ -29,3 +30,8 @@ content directly, send a pull request editing `index.md`.
 
 - [Complete tutorial on how to use Claude Code](https://github.com/luongnv89/claude-howto) ![tutorial](https://img.shields.io/badge/tutorial-lightgrey) ![claude-code](https://img.shields.io/badge/claude--code-lightgrey) ![coding-agent](https://img.shields.io/badge/coding--agent-lightgrey)
 - [Repository Awesome Econ AI Stuff](https://github.com/meleantonio/awesome-econ-ai-stuff) ![economics](https://img.shields.io/badge/economics-blue) ![resources](https://img.shields.io/badge/resources-blue)
+
+## Skills for Claude
+
+- [A ready-to-fork foundation for AI-assisted academic workflow](https://psantanna.com/claude-code-my-workflow/)
+- [Litterature review](https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/literature-review)
