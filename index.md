@@ -25,6 +25,7 @@ content directly, send a pull request editing `index.md`.
 ## Collective discussion
 
 - 19/05/2026: [AI and Mathematics, Nicolas Brosse](https://019e3f84-75d9-18e9-a114-f9c8546c9834.share.connect.posit.cloud/) ![mathematics](https://img.shields.io/badge/mathematics-green) ![synthesis](https://img.shields.io/badge/synthesis-green)
+- 04/06/2026: [Demo of agentic workflow by Oussama Zekri](./documents/talk-zekri-04062026.pdf)
 
 ## Trainings & ressources
 
